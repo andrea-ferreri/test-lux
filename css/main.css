@@ -1,0 +1,863 @@
+.image-center{
+	display:block !important;
+	margin-left:auto !important;
+	margin-right:auto !important;
+	width:70% !important;
+	
+}
+.Exclusively-For-Your {
+	  height: 27px;
+	  font-family: DINOT;
+	  font-size: 20.7px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.31;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c !important;
+	}
+.centro{
+	margin: 2%;
+    text-align: center;
+	}
+	.header_image {       
+		background-image: url("../img/group-23-copy.png");
+		height: 261px;
+		background-repeat:no-repeat;
+		background-size: cover;
+		width:100%;
+		} 
+	.body_image {       
+
+		background-image: url("../img/group-6.png");
+		height:225px;
+		} 
+		
+	.Group-23-Copy {
+	  background-image: url("../img/group-23-copy.png");
+	  width: 100%;
+	  height: 261px;
+	  background-repeat: no-repeat;
+	  padding:0px;
+	}
+	.Group {
+		
+	  margin: 2%;
+	  text-align: center;
+	  width: 200px;
+	  height: 23px;
+	  object-fit: contain;
+	}
+	.Exclusively-For-Your {
+	  font-size: 20.7px;
+	}
+	.off-orders-above {
+	  /*height: 73px;*/
+	  transform: rotate(-360deg);
+	  font-family: DINOT-Black;
+	  font-size: 36px;
+	  font-weight: 900;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.01;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c !important;
+	}
+
+	.free-shipping-copy {
+	  height: 27px;
+	  font-family: DINOT;
+	  font-size: 20.7px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.31;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c !important;
+	}
+
+	.USE-code-FALL50 {
+	  height: 31px;
+	  font-family: DINOT;
+	  font-size: 19.4px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.55;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c;
+	}
+
+	.FALL50_B {
+	  height: 31px;
+	  font-family: DINOT-Black;
+	  font-size: 19.4px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.55;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c;
+	}
+	.Rectangle {
+ width: 110px;
+    height: 24px;
+    border-radius: 20px;
+    background-color: #02212c;
+    padding-bottom: 1%;
+	}
+
+	.COPY-CODE {
+	  height: 14px;
+	  font-family: DINOT;
+	  font-size: 14px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  margin: 3%;
+	  color: #ffffff;
+	}
+
+	.Rectangle-Copy-3 {
+	  width: 100%;
+      height: auto;
+	  background-color: #02212c;
+	}
+
+	.Welcome-to-ContactsD {
+	    width: 80%;
+    /* height: auto; */
+    font-family: DINOT;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 1%;
+    margin: auto;
+	}
+
+	.Shop-save-on-our-b {
+	  width: 100%;
+      height: auto;
+	  font-family: DINOT;
+	  font-size: 25px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.12;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #000000;
+	}
+
+	.annual-subscr-Copy-2 {
+	width: 100%;
+    height: auto;
+	}
+
+	.Bitmap-Copy {
+    height: auto;
+	}
+
+	.ACUVUE-OASYS-with-H {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 20px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #333333;
+	}
+	.as-low-as-9449-per-copy-6 {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 13px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #333333;
+	}
+
+	.Rectangle-3 {
+
+	border-radius: 4px;
+	width: 51%;
+	margin: auto;
+	padding: 3%;
+	background-color: #d54400;
+	}
+	.CHOOSE-THIS {
+	  width: 100%;
+      height: auto;
+	  font-family: DINOT;
+	  font-size: 16px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: 0.5px;
+	  text-align: center;
+	  color: #ffffff;
+	}
+
+	.The-exclusive-benefi {
+	  width: 100%;
+      height: auto;
+	  font-family: DINOT;
+	  font-size: 25px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.12;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #000000;
+	  margin: 2% 0% 2% 0%;
+	}
+
+	.Rectangle-Copy-7 {
+	  width: 100%;
+      height: auto;
+	  background-color: #d54400;
+	}
+	.Free-shipping-retu {
+  	width: 100%;
+    height: auto;
+    font-family: DINOT;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 10%;
+	}
+	.Free-shipping-retu text-style-1 {
+	  font-size: 16.5px;
+	  font-weight: bold;
+	  line-height: 2.24;
+	}
+	.Rectangle-Copy-30 {
+	  width: 100%;
+      height: auto;
+      background-color: #02212c;
+	}
+	.Rectangle-Copy-3 {
+	width: 100%;
+    height: auto;
+	  background-color: #0080a9;
+	}
+	.Rectangle-Copy-4 {
+	width: 100%;
+    height: auto;
+	  background-color: #02212c;
+	}
+	.Buy-now-pay-later-w {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 30.7px;
+	  font-weight: bold;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.06;
+	  letter-spacing: 0.61px;
+	  text-align: center;
+	  color: #02212c;
+	}
+	.Buy-now-pay-later-b {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 14px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.29;
+	  letter-spacing: 0.1px;
+	  text-align: center;
+	  color: #02212c;
+	}
+	.Rectangle-6 {
+    width: 51%;
+    background-color: #0080a9;
+    margin: auto;
+    padding: 3%;
+	border-radius: 4px;
+	}
+	.Rectangle-Copy-9 {
+    width: 100%;
+    height: auto;
+    background-color: #0080a9;
+    padding: 5%;
+	}
+	.Use-your-vision-bene {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 22px;
+	  font-weight: bold;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #ffffff;
+	}
+	.We-accept-most-visio {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 14px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #ffffff;
+	}
+	.Group-85-Copy {
+	width: 100%;
+    height: auto;
+	background-size:contain;
+	}
+	.Learn-more- {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 16px;
+	  font-weight: 900;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #ffffff;
+	}
+	
+
+@media only screen and (max-width: 575.98px) 
+{    
+.hidden-mobile{
+	display:none;
+	}
+	.header_page {       
+		background-image: url("../img/group-39.png");
+		height: 261px;
+		background-repeat:no-repeat;
+		background-size: cover;
+		width:100%;
+		}
+	.centro{
+	margin: 2%;
+    text-align: center;
+	}
+	.header_image {       
+		background-image: url("../img/group-23-copy.png");
+		height: 261px;
+		background-repeat:no-repeat;
+		background-size: cover;
+		width:100%;
+		} 
+	.body_image {       
+
+		background-image: url("../img/group-6.png");
+		height:225px;
+		} 
+		
+	.Group-23-Copy {
+	  background-image: url("../img/group-23-copy.png");
+	  width: 100%;
+	  height: 261px;
+	  background-repeat: no-repeat;
+	  padding:0px;
+	}
+	.Group {
+		
+	  margin: 2%;
+	  text-align: center;
+	  width: 200px;
+	  height: 23px;
+	  object-fit: contain;
+	}
+	.Exclusively-For-Your {
+	  font-size: 20.7px;
+	}
+	.off-orders-above {
+	  height: 73px;
+	  transform: rotate(-360deg);
+	  font-family: DINOT-Black;
+	  font-size: 36px;
+	  font-weight: 900;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.01;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c !important;
+	}
+
+	.free-shipping-copy {
+	  height: 27px;
+	  font-family: DINOT;
+	  font-size: 20.7px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.31;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c !important;
+	}
+
+	.USE-code-FALL50 {
+	  height: 31px;
+	  font-family: DINOT;
+	  font-size: 19.4px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.55;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c;
+	}
+
+	.FALL50_B {
+	  height: 31px;
+	  font-family: DINOT-Black;
+	  font-size: 19.4px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.55;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #02212c;
+	}
+	.Rectangle {
+    width: 110px;
+    height: 24px;
+    border-radius: 20px;
+    background-color: #02212c;
+    padding-bottom: 1%;
+	}
+
+	.COPY-CODE {
+	  height: 14px;
+	  font-family: DINOT;
+	  font-size: 14px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  margin: 3%;
+	  color: #ffffff;
+	}
+
+	.Rectangle-Copy-3 {
+	  width: 100%;
+      height: auto;
+	  background-color: #02212c;
+	}
+
+	.Welcome-to-ContactsD {
+	width: 100%;
+    height: auto;
+    font-family: DINOT;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 1%;
+	}
+
+	.Shop-save-on-our-b {
+	  width: 100%;
+      height: auto;
+	  font-family: DINOT;
+	  font-size: 25px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.12;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #000000;
+	}
+
+	.annual-subscr-Copy-2 {
+	width: 100%;
+    height: auto;
+	}
+
+	.Bitmap-Copy {
+    height: auto;
+	}
+
+	.ACUVUE-OASYS-with-H {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 20px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #333333;
+	}
+	.as-low-as-9449-per-copy-6 {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 13px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #333333;
+	}
+
+	.Rectangle-3 {
+
+	border-radius: 4px;
+	width: 51%;
+	margin: auto;
+	padding: 3%;
+	background-color: #d54400;
+	}
+	.CHOOSE-THIS {
+	  width: 100%;
+      height: auto;
+	  font-family: DINOT;
+	  font-size: 16px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: 0.5px;
+	  text-align: center;
+	  color: #ffffff;
+	}
+
+	.The-exclusive-benefi {
+	  width: 100%;
+      height: auto;
+	  font-family: DINOT;
+	  font-size: 25px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.12;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #000000;
+	  margin: 10% 0% 10% 0%;
+	}
+
+	.Rectangle-Copy-7 {
+	  width: 100%;
+      height: auto;
+	  background-color: #d54400;
+	}
+	.Free-shipping-retu {
+  	width: 100%;
+    height: auto;
+    font-family: DINOT;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 10%;
+	}
+	.Free-shipping-retu text-style-1 {
+	  font-size: 16.5px;
+	  font-weight: bold;
+	  line-height: 2.24;
+	}
+	.Rectangle-Copy-30 {
+	  width: 100%;
+      height: auto;
+      background-color: #02212c;
+	}
+	.Rectangle-Copy-3 {
+	width: 100%;
+    height: auto;
+	  background-color: #0080a9;
+	}
+	.Rectangle-Copy-4 {
+	width: 100%;
+    height: auto;
+	  background-color: #02212c;
+	}
+	.Buy-now-pay-later-w {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 30.7px;
+	  font-weight: bold;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.06;
+	  letter-spacing: 0.61px;
+	  text-align: center;
+	  color: #02212c;
+	}
+	.Buy-now-pay-later-b {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 14px;
+	  font-weight: normal;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: 1.29;
+	  letter-spacing: 0.1px;
+	  text-align: center;
+	  color: #02212c;
+	}
+	.Rectangle-6 {
+    width: 51%;
+    background-color: #0080a9;
+    margin: auto;
+    padding: 3%;
+	border-radius: 4px;
+	}
+	.Rectangle-Copy-9 {
+	margin: 34px 0% 0%;
+    width: 100%;
+    height: auto;
+    background-color: #0080a9;
+    padding: 5%;
+	}
+	.Use-your-vision-bene {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 22px;
+	  font-weight: bold;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #ffffff;
+	}
+	.We-accept-most-visio {
+	width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 14px;
+	  font-weight: 500;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #ffffff;
+	}
+	.Group-85-Copy {
+	width: 100%;
+    height: auto;
+	background-size:contain;
+	}
+	.Learn-more- {
+width: 100%;
+    height: auto;
+	  font-family: DINOT;
+	  font-size: 16px;
+	  font-weight: 900;
+	  font-stretch: normal;
+	  font-style: normal;
+	  line-height: normal;
+	  letter-spacing: normal;
+	  text-align: center;
+	  color: #ffffff;
+	}
+}
+
+@media only screen and (min-width: 575.98px) 
+{     
+
+.container{
+	margin:0 !important;
+}
+		.prodotti > div{
+			float:left;
+		}
+		.header_image {       
+			background-image: url("../img/group-23.png");
+			height: 390px;
+			background-repeat:no-repeat;
+			background-size: cover;
+			width:100%;
+		} 
+		.header_image_text{
+			position: absolute;
+			top: 20%;
+			width: 68%;
+		}
+.Exclusively-For-Your {
+    font-size: 40px;
+}
+
+.off-orders-above {
+    /* height: 73px; */
+    /* transform: rotate(-360deg); */
+    font-family: DINOT-Black;
+    font-size: 36px;
+    /* font-weight: 900; */
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.01;
+    /* letter-spacing: normal; */
+    text-align: center;
+    color: #02212c !important;
+}
+
+.free-shipping-copy {
+    /* height: 29.6px; */
+    font-family: DINOT;
+    font-size: 29.6px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.31;
+    letter-spacing: normal;
+    text-align: center;
+    color: #02212c !important;
+}
+.FALL50_B {
+font-size: 27.7px;
+}
+
+.USE-code-FALL50 {
+font-size: 27.7px;
+}
+
+.CHOOSE-THIS {
+    /* width: 100%; */
+    /* height: auto;}
+
+.Rectangle-3 {
+    border-radius: 4px;
+    width: 37%;
+    /* height: 52%; */
+    margin: auto;
+    padding: 1% 0% 1% 0%;
+    background-color: #d54400;
+}
+
+.Welcome-to-ContactsD {
+	width: 80%;
+    /* height: auto; */
+    font-family: DINOT;
+    font-size: 20px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 1%;
+    margin: auto;
+}
+.Shop-save-on-our-b {
+    /* width: 100%; */
+    /* height: auto; */
+    font-family: DINOT;
+    font-size: 26px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.12;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    padding: 3%;
+}
+
+.ACUVUE-OASYS-with-H {
+    /* width: 100%; */
+    /* height: auto; */
+    font-family: DINOT;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #333333;
+}
+
+.Rectangle-3 {
+    border-radius: 4px;
+    width: 20%;
+    height: 10%;
+    margin: auto;
+    padding: 1%;
+    background-color: #d54400;
+}
+.hidden-desk{
+	display:none;
+}
+}
+.body_image {       
+			background-image: url("../img/group-6.png");
+			background-repeat:no-repeat;
+			background-size: contain;
+			width:100%;
+		} 
+.header_page {       
+		background-image: url("../img/group-39.png");
+		height: 261px;
+		background-repeat:no-repeat;
+		background-size: cover;
+		width:100%;
+		}
+}
+@font-face {
+   font-family: 'DINOT';
+   src: url('../font/dinot.otf') format('truetype');
+}
+@font-face {
+   font-family: 'DINOT-Black';
+   src: url('../font/dinot-black.otf') format('truetype');
+}

@@ -1,0 +1,301 @@
+@font-face {
+   font-family: 'DINOT';
+   src: url('../font/dinot.otf') format('truetype');
+	}
+@font-face {
+   font-family: 'DINOT-Black';
+   src: url('../font/dinot-black.otf') format('truetype');
+	}
+.Exclusively-For-Your {
+	font-family: DINOT;
+	font-size: 40px;
+	line-height: 1.31;
+	text-align: center;
+	color: #02212c;
+	}
+.header_image {       
+	background-repeat:no-repeat;
+	background-size: cover;
+	width:100%;
+	} 
+.Rectangle-Copy-30 {
+	width: 100%;
+	height: auto;
+	background-color: #02212c;
+	}
+.Welcome-to-ContactsD {
+	width: 80%;
+	font-family: DINOT;
+	font-size: 20px;
+	text-align: center;
+	color: #ffffff;
+	margin: auto;
+	}
+.Shop-save-on-our-b {
+	font-family: DINOT;
+	font-size: 25px;
+	text-align: center;
+	color: #000000;
+	padding: 2% 10% 0% 10%;
+	}
+.image-center{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+	}
+.save_90{
+    text-align: center;
+	}
+.ACUVUE-OASYS-with-H {
+	font-family: DINOT;
+	font-size: 20px;
+	line-height: normal;
+	letter-spacing: normal;
+	text-align: center;
+	color: #333333;
+	}
+.as-low-as-9449-per-copy-6 {
+	font-family: DINOT;
+	font-size: 13px;
+	line-height: normal;
+	text-align: center;
+	color: #333333;
+	}
+.prodotti > div{
+	float:left;
+	}
+.Rectangle-3 {
+    border-radius: 4px;
+    padding: 6px 3px;
+    width: 23%;
+    height: 37px;
+    background-color: #d54400;
+    margin: auto;
+	}
+.Rectangle-4 {
+	border-radius: 20px;
+	padding: 6px 3px;
+	width: 23%;
+	height: 37px;
+	background-color: #02212c;
+	margin: auto;
+	padding: 0% 3% 2% 3%;
+	}
+.CHOOSE-THIS {
+	font-family: DINOT;
+	font-size: 16px;
+	letter-spacing: 0.5px;
+	text-align: center;
+	color: #ffffff;
+	}
+.The-exclusive-benefi {
+	font-family: DINOT;
+	font-size: 25px;
+	line-height: 1.12;
+	text-align: center;
+	color: #000000;
+	margin: 3% 0% 3% 0%;
+	}
+.Rectangle-Copy-1{
+	width: 100%;
+	height: auto;
+	background-color: #d54400;
+	}
+.Rectangle-Copy-2{
+	width: 100%;
+	height: auto;
+	background-color: #0080a9;
+	}
+.Rectangle-Copy-3{
+	width: 100%;
+	height: auto;
+	background-color: #02212c;
+	}
+.Free-shipping-retu {
+    font-family: DINOT;
+    font-size: 14px;
+    line-height: normal;
+    text-align: center;
+    color: #ffffff;
+    padding: 0% 10% 10% 10%;
+	}
+.header_page {       
+	background-image: url("../img/group-39.png");
+	height: 390px;
+	background-repeat:no-repeat;
+	background-size: cover;
+	width:100%;
+	}
+.body_image {       
+	background-image: url("../img/group-6.png");
+	height:225px;
+	} 
+.Buy-now-pay-later-w {
+    font-family: DINOT;
+    font-size: 30.7px;
+    line-height: 1.06;
+	font-weight: bold;
+    letter-spacing: 0.61px;
+    text-align: center;
+    color: #02212c;
+    padding: 5% 5% 0% 5%;
+	}
+.Buy-now-pay-later-b {
+    font-family: DINOT;
+    font-size: 14px;
+    line-height: 1.29;
+    letter-spacing: 0.1px;
+    text-align: center;
+    color: #02212c;
+    padding: 0% 5% 0% 5%;
+	}
+.Rectangle-6 {
+    border-radius: 4px;
+    padding: 6px 3px;
+    width: 57%;
+    height: 37px;
+    background-color: #0080a9;
+    margin: auto;
+    margin-bottom: 9%;
+	}
+.Rectangle-Copy-31 {
+	width: 100%;
+	height: auto;
+	background-color: #0080a9;
+	}
+.Use-your-vision-bene {
+    font-family: DINOT;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: normal;
+    text-align: center;
+    color: #ffffff;
+	padding: 2% 0% 0% 0%;
+	}
+.We-accept-most-visio {	
+	font-family: DINOT;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+	}
+.Group-85-Copy {
+	width: 70%;
+    height: auto;
+    background-size: contain;
+	padding-bottom: 4%;
+	}
+.Learn-more- {
+	font-family: DINOT;
+    font-size: 16px;
+    line-height: normal;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #ffffff;
+    padding: 3% 0% 4% 0%;
+	}
+.off-orders-above {
+	font-family: DINOT-Black;
+    font-size: 44.4px;
+    line-height: 1.01;
+    text-align: center;
+    color: #02212c;
+	}
+.free-shipping-copy {
+    font-family: DINOT;
+    font-size: 29.6px;
+    line-height: 1.31;
+    text-align: center;
+    color: #02212c;
+	}
+.USE-code-FALL50 {
+    font-family: DINOT;
+    font-size: 27.7px;
+    line-height: 1.55;
+    text-align: center;
+    color: #02212c;
+	}
+.Rectangle {
+	border-radius: 20px;
+    background-color: #02212c;
+	}
+.COPY-CODE {
+    font-family: DINOT;
+    font-size: 14px;
+    margin: 3%;
+    color: #ffffff;
+	}
+	
+.icon-center {
+	display: block;
+	width: 23%;
+	padding: 2%;
+	margin: 10% auto 3% auto;
+	}
+/*DESKTOP*/@media only screen and (min-width: 575.98px)
+{    
+	.header_image {
+		background-image: url("../img/group-23.png");
+		height: 390px;
+	}
+	.header_image_text{
+		position: absolute;
+		top: 6%;
+		width: 50%;
+	}
+	.Welcome-to-ContactsD {
+		padding: 2% 16% 2% 16%;
+	}
+	.hidden-desk{
+		display: none;
+	}
+}
+
+/*MOBILE*/ @media only screen and (max-width: 575.98px) 
+{    
+	.header_image {
+		background-image: url("../img/group-23-copy.png");
+		height: 261px;
+	}
+	.Welcome-to-ContactsD {
+		font-size: 13px;
+		padding: 2% 0% 2% 0%;
+	}
+	.ACUVUE-OASYS-with-H {
+		font-size: 14px;
+		padding: 0% 17% 0% 17%;
+	}
+	.Rectangle-3 {
+		width: 45%;
+	}
+	.The-exclusive-benefi {
+		margin: 10% 0% 10% 0%;
+	}
+	.hidden{
+		display: none;
+	}
+	.Use-your-vision-bene {
+		font-size: 22px;
+		padding: 5% 0% 0% 0%;
+	}
+	.We-accept-most-visio {	
+		font-size: 14px;
+	}
+	.Exclusively-For-Your {
+		font-size: 20.7px;
+	}
+	.off-orders-above {
+		font-size: 36px;
+	}
+	.free-shipping-copy {
+		font-size: 20.7px;
+	}
+	.USE-code-FALL50 {
+		font-size: 19.4px;
+	}
+	.Group-85-Copy {
+		width: 100%;
+	}
+}
